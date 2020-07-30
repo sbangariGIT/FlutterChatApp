@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>884675605978-tn4hpaarf63sg9q3ao3n1u3dhlomrjf7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.884675605978-tn4hpaarf63sg9q3ao3n1u3dhlomrjf7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOjNFd3RoPyGMVWTEqKR5yPxR3R8F33Go</string>
+	<key>GCM_SENDER_ID</key>
+	<string>884675605978</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.app</string>
+	<key>PROJECT_ID</key>
+	<string>sportapp-3b6d5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sportapp-3b6d5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:884675605978:ios:a0a8ca5a7c0dd4324afce3</string>
+	<key>DATABASE_URL</key>
+	<string>https://sportapp-3b6d5.firebaseio.com</string>
+</dict>
+</plist>
