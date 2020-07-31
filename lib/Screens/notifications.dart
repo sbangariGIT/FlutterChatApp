@@ -8,8 +8,10 @@ class notifications extends StatefulWidget {
 class _notificationsState extends State<notifications> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      color: Colors.orange,
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("Notifications"),
+      ),
     );
   }
 }
